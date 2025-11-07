@@ -90,7 +90,7 @@
       flake = false;
     };
     alexandria = {
-      url = "gitlab:alexandria/alexandria?host=gitlab.common-lisp.net";
+      url = "git+https://gitlab.common-lisp.net/alexandria/alexandria.git";
       flake = false;
     };
     alien-ring = {
@@ -122,7 +122,7 @@
       flake = false;
     };
     asdf = {
-      url = "gitlab:asdf/asdf?host=gitlab.common-lisp.net";
+      url = "git+https://gitlab.common-lisp.net/asdf/asdf.git";
       flake = false;
     };
     asdf-flv = {
@@ -620,7 +620,7 @@
       flake = false;
     };
     iterate = {
-      url =  "gitlab:iterate/iterate?host=gitlab.common-lisp.net";
+      url = "git+https://gitlab.common-lisp.net/iterate/iterate.git";
       flake = false;
     };
     jonathan = {
